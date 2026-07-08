@@ -20,17 +20,6 @@ I enjoy working across the full software lifecycle: from **discovery, architectu
 
 ---
 
-## 💼 Experience Highlights
-
-* 🏢 Led the technical delivery of a **real-time virtual workplace SaaS platform** for distributed teams and contact centers.
-* 📞 Designed modular **CCaaS integrations** with providers like Webex, NICE CXone, Genesys, NobelBiz, Talkdesk and 8x8.
-* ✈️ Worked on enterprise airline commerce systems using **IATA NDC, XML/SOAP, EDIFACT and Node.js**.
-* 🧾 Built automation workflows integrating **AWS Lambda, Cognito, DynamoDB, Experian/CoreLogic APIs and PDF reporting**.
-* 🧠 Built AI-powered features for **summarization, transcription, intelligent assistance and developer productivity**.
-* 🧩 Created Chrome Extensions, private NPM packages, dashboards, mobile features and backend services across multiple industries.
-
----
-
 ## 🌎 Let's connect
 
 * 💼 LinkedIn: [linkedin.com/in/mvelezg99](https://www.linkedin.com/in/mvelezg99/)
