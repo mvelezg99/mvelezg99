@@ -2,7 +2,7 @@
 
 ### Senior Software Engineer · Technical Lead · Full Stack · Applied AI
 
-I'm a software engineer from Medellín, Colombia 🇨🇴 with 5+ years of experience building **full-stack platforms, real-time systems, enterprise integrations, cloud-native apps, and AI-powered software products**.
+I'm a software engineer from Medellín, Colombia with 5+ years of experience building **full-stack platforms, real-time systems, enterprise integrations, cloud-native apps, and AI-powered software products**.
 
 I enjoy working across the full software lifecycle: from **discovery, architecture and estimation** to **development, deployment, monitoring and production support**.
 
