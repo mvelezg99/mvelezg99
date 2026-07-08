@@ -11,11 +11,11 @@ I enjoy working across the full software lifecycle: from **discovery, architectu
 ## 🚀 What I do
 
 * 🧠 **Technical Leadership** — planning, architecture, PR reviews, delivery, mentoring and team coordination.
-* ⚛️ **Frontend Engineering** — React, Next.js, Vite, Vue, Tailwind, Material UI.
-* 🧩 **Backend Engineering** — Node.js, NestJS, .NET, REST, GraphQL, SQL, microservices and modular architectures.
-* 📱 **Cross-Platform Apps** — React Native, Flutter maintenance, Chrome Extensions and Electron apps.
+* ⚛️ **Frontend Engineering** — React, Next.js, Vite, Tailwind, Material UI.
+* 🧩 **Backend Engineering** — Node.js, Express.js, NestJS, .NET, REST, GraphQL, SQL, microservices and modular architectures.
+* 📱 **Cross-Platform Apps** — React Native, Chrome Extensions and Electron apps.
 * ⚡ **Real-Time Systems** — Socket.IO, Kafka, Redis, BullMQ, event-driven architectures.
-* ☁️ **Cloud & DevOps** — AWS, Azure, Terraform, Kubernetes, CI/CD, monitoring and production debugging.
+* ☁️ **Cloud & DevOps** — AWS, Azure, Terraform, Docker, Kubernetes, CI/CD, monitoring and production debugging.
 * 🤖 **Applied AI** — OpenAI, Claude, Codex, Cursor, transcription, summarization, automation and AI-assisted engineering workflows.
 
 ---
